@@ -63,7 +63,7 @@ Finally, you need the [ZIP code to CBSA crosswalk](https://www.huduser.gov/porta
 ## Findings   
 Our major conclusions include:   
 - Tennessee providers are responsible for the vast majority of referrals, with Kentucky providers following at a distant second
-- Vanderbit is already the lead hospital/hospital system in the Nashville area in terms of the number of providers sending referrals as well as the number of referral transactions and referral patients
+- Vanderbilt is already the lead hospital/hospital system in the Nashville area in terms of the number of providers sending referrals as well as the number of referral transactions and referral patients
 - Physicians working in heart-related specialties are typically the ones responsible for the largest number of referral patients
 - Vanderbilt might focus outreach on specialties and individual providers who have a larger number of referral patients/referral transactions and longer average wait times
 - There are many communities among Nashville area providers (individuals and organizations)
